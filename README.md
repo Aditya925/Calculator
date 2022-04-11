@@ -1,1 +1,1 @@
-# Basic Calculator implemented in Rust.
+# Calculator
